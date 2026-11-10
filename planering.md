@@ -3,6 +3,7 @@
 Planera innan du skriver kod. Här bestämmer du vad ditt spel ska vara, hur kampen fungerar och
 vilka kort du bygger det med. Visa planen och korten för läraren innan du börjar koda.
 
+ 
 ## Mitt spel
 
 Kraven är samma för alla. Vad gör ditt spel till ditt? Vem är du, vem slåss du mot, och var? Vad
